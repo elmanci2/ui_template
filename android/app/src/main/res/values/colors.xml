@@ -1,0 +1,4 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="mi_color_de_barra">#f0542c</color> <!-- Define tu color aquí -->
+</resources>

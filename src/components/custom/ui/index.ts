@@ -1,0 +1,1 @@
+export {Swiped} from './Swiped';
